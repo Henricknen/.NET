@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git hub\.net\classes\bin\Debug\net6.0\classes.exe
+C:\Users\user\Desktop\git hub\.net\classes\bin\Debug\net6.0\classes.deps.json
+C:\Users\user\Desktop\git hub\.net\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+C:\Users\user\Desktop\git hub\.net\classes\bin\Debug\net6.0\classes.dll
+C:\Users\user\Desktop\git hub\.net\classes\bin\Debug\net6.0\classes.pdb
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.dll
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\refint\classes.dll
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.pdb
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+C:\Users\user\Desktop\git hub\.net\classes\obj\Debug\net6.0\ref\classes.dll
