@@ -48,7 +48,46 @@ namespace Revisao
                         break;
 
                     case "3":
-                        //TODO: calcular media geral
+                        decimal notaTotal = 0;      // 'decimal' esta explicitando que nota é decimal
+                        var nrAlunos = 0;
+
+                        for (int i = 0; i < alunos.Length; i++)
+                        {
+                            if (!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].Nota;     // faz a soma da nota do aluno atual com a nota do aluno anterior assim sucessivamente
+                                nrAlunos++;
+                            }
+                        }
+
+                        var mediaGeral = notaTotal / nrAlunos;
+                        Conceito conceitoGeral;     // 'Conceito' é o enum
+
+                        if (mediaGeral < 2)
+                        {
+                            conceitoGeral = Conceito.E;
+                        }
+
+                        if (mediaGeral < 4)
+                        {
+                            conceitoGeral = Conceito.D;
+                        }
+
+                        if (mediaGeral < 6)
+                        {
+                            conceitoGeral = Conceito.C;
+                        }
+                        if (mediaGeral < 8)
+                        {
+                            conceitoGeral = Conceito.B;
+                        }
+                        else
+                        {
+                            conceitoGeral = Conceito.A;
+                        }
+
+
+                        Console.WriteLine($"Media geral: {mediaGeral} - Conceito: {conceitoGeral}");
                         break;
 
                     default:
